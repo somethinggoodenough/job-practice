@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "job-practice",
+      "path": "../job-practice"
+    },
+    {
+      "name": "Infra实验",
+      "path": "."
+    }
+  ],
+  "settings": {}
+}
